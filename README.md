@@ -27,7 +27,7 @@
 
 - Handled missing values and inconsistencies
 - Created derived columns (Age Groups, Price per KM, etc.)
-- Performed Exploratory Data Analysis (EDA)
+- Performed Exploratory Data Analysis (EDA) & Feature Engineering
 
 2️⃣ **KPI Development (Python → SQL → Power BI)**
 
