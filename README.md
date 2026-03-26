@@ -1,4 +1,4 @@
-✈️ Flight Booking & Travel Data Analysis Dashboard
+✈️ **Flight Booking & Travel Data Analysis Dashboard**
 
 📌 **Project Overview**
 
